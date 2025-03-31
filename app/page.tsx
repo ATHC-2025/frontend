@@ -16,7 +16,7 @@ export default function Home() {
         <div className="fixed inset-0 z-[1] bg-transparent backdrop-blur-[3px]"></div>
       )}
       <main className="flex justify-center items-center h-[80dvh] relative z-[2]">
-        <div className="bg-black/5 backdrop-blur-md w-[80%] max-w-[600px] rounded-2xl px-4 lg:px-14 py-16 text-center">
+        <div className="bg-black/5 backdrop-blur-md w-[90%] max-w-[600px] rounded-2xl px-4 lg:px-14 py-16 text-center">
           <h1 className="text-4xl md:text-6xl font-medium leading-tight text-background">
             <span>Become a </span>
             <span className="text-primary brightness-125">Property Owner</span>
